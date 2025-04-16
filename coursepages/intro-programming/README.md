@@ -4,8 +4,6 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 We are currently looking for volunteers to try out both of the following two courses and analyze them in different ways to determine which one is better suited to be included in our  curriculum. We suggest that you flip a coin to decide which one to take first, so that you avoid an ordering bias. Once you have completed both courses, please provide your analysis of [this RFC](https://github.com/ossu/computer-science/issues/1164).
 
-If you don't have time or do not want to volunteer, you are required to do **only ONE** of the following courses.
-
 ## CS50P: Introduction to Programming with Python
 
 This course has been developed by the CS50 team at Harvard University.
