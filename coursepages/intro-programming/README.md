@@ -42,7 +42,6 @@ This course has been created by Professor Charles Severance from the University 
 
 **Textbook**: [PDF](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) / [EPUB](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.epub) / [HTML](https://www.py4e.com/html3) / [Buy hardcopy](https://www.py4e.com/book)
 
-**Note**: This course is also offered on Coursera, Edx. Those versions require you to pay to get the full version of the course. We suggest doing the course on its website, which is completely free.
 
 ### Instructions
 
