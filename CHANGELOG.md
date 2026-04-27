@@ -68,9 +68,6 @@ This project adheres *in spirit* to [Semantic Versioning](http://semver.org/):
 ### Added
 - Scala specialization under Advanced applications
 
-### Removed
-- Removed all but one choice for required readings to make the curriculum simpler
-
 ## [7.0.1] 2017-03-11
 ### Updated
 - Fixed link to Bradfield's DIY computer science page
