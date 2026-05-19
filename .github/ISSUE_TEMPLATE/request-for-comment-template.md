@@ -1,7 +1,7 @@
 ---
 name: Request for Comment Template
 about: Template for creating an RFC to modify the curriculum
-title: 'RFC: '
+title: ''
 labels: ''
 assignees: ''
 
