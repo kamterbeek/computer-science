@@ -1,5 +1,3 @@
-# Changing the curriculum
-OSSU thrives because of the changes made by our many contributors. Read on for details on how to help every student that follows you.
 ## Non-substantive changes
 If you have non-substantive updates to make to the curriculum, such as a course's URL having been moved, spelling/syntax errors, etc., please send a [pull request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to fix any mistakes that you have found.
 ## Substantive changes
