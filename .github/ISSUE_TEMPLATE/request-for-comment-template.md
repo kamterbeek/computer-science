@@ -1,12 +1,3 @@
----
-name: Request for Comment Template
-about: Template for creating an RFC to modify the curriculum
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Problem:**
 Give a 1 sentence description of a problem with the current OSSU Curriculum. Successful critiques of the curriculum will point out ways that OSSU is failing to uphold [our curricular guidelines](https://github.com/ossu/computer-science/blob/master/CURRICULAR_GUIDELINES.md). Examples are:
 
